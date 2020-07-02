@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f5a023</color>
+    <color name="colorPrimaryDark">#d37e01</color>
+    <color name="colorAccent">#000000</color>
+    <color name="backgroundColor">#e9e9e9</color>
+    <color name="backgroundColorPlay">#f5a023</color>
+    <color name="fundoProgressbar">#FF1B1A1A</color>
+    <color name="botaoProgressbar">#FFFFFF</color>
+    <color name="gray">#ff888888</color>
+    <color name="textoVideo">#626262</color>
+</resources>

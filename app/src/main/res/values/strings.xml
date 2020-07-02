@@ -1,0 +1,52 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Botões de Meme</string>
+    <string name="titulo">Botões de Memes</string>
+    <string name="banner_bottom">ca-app-pub-2035416727494205/1032286041</string>
+    <string name="banner_interstitial">ca-app-pub-2035416727494205/5685846923</string>
+    <string name="idApp">ca-app-pub-2035416727494205~7901904580</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="Tab1">Botões</string>
+    <string name="Tab2">Músicas</string>
+    <string name="iconeInfo">Duplo clique para compartilhar e favoritar</string>
+    <string name="compartilhar">Compartilhar via</string>
+    <string name="addSucesso">Adicionado com sucesso!</string>
+    <string name="addFalha">Ocorreu um erro inesperado!</string>
+    <string name="addVerificar">Áudio já adicionado!</string>
+    <string name="deletarAudio">Excluído com sucesso!</string>
+    <string name="adicionar">Favoritar</string>
+    <string name="excluir">Excluir</string>
+    <string name="compartilharMenu">Compartilhar</string>
+    <string name="buscar">Buscar…</string>
+    <string name="origemMeme">Sobre o meme</string>
+    <string name="download_audio">Áudio baixado com sucesso!</string>
+    <string name="baixar_audiomenu">Baixar áudio</string>
+    <string name="permissaoBloqueada">Permissão de gravar bloqueada pelo usuário. Verifique!</string>
+    <string name="sugestao">Enviar sugestão de meme</string>
+    <string name="txtSugestao">Sugestões de memes</string>
+    <string name="enviar">Enviar</string>
+    <string name="obrigado">Obrigado pela sugestão!</string>
+    <string name="buscarItem">Buscar</string>
+
+    <string name="some_demos_disabled">* Seu aparelho está rodando a versão da API <xliff:g id="current_version">%1$s</xliff:g>.</string>
+    <string name="list_item_disabled">Android requer versão da API <xliff:g id="required_version">%1$s</xliff:g> ou maior.</string>
+
+
+    <string name="youtube_currently_installed">Versão do Youtube instalada no aparelho: <xliff:g id="youtube_version">%1$s</xliff:g>.</string>
+    <string name="youtube_not_installed">O Youtube não está instalado nesse aparelho.</string>
+
+    <string name="error_thumbnail_view">Ocorreu um erro ao inicializar o Youtube (%1$s)</string>
+    <string name="error_player">Ocorreu um erro ao inicializar o player do Youtube (%1$s)</string>
+    <string name="videos">Vídeos</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="semConexao">Sem internet para carregar os vídeos</string>
+    <string name="erroAtualizar">Não foi possível atualizar!</string>
+    <string name="semVideosNovos">Não há novos vídeos. Tente mais tarde!</string>
+    <string name="atualizando">Atualizando…</string>
+    <string name="youtubeInstalar">Você não possui o aplicativo do Youtube instalado! \n\
+        Não será possível visualizar os vídeos no aplicativo.\n\
+        Por favor, instale-o para ver os vídeos!</string>
+    <string name="fechar">Fechar</string>
+    <string name="textoSugestao" translatable="false">Memes que contenham conteúdo sexual não serão aceitos. Se possível, enviar o link do meme. Obrigado!</string>
+</resources>

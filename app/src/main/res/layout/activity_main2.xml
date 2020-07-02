@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.garciaapps.botoesdememe.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linerLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/backgroundColorPlay"
+        android:orientation="horizontal"
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="5dp">
+
+        <ImageView
+            android:id="@+id/imgPlayPause"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:src="@drawable/play_pause" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/relativeLinear"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:gravity="center">
+
+            <SeekBar
+                android:id="@+id/seekBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="0dp"
+                android:paddingBottom="0dp"
+                android:layout_marginBottom="0dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtInicio"
+                android:textSize="12sp"
+                android:layout_below="@id/seekBar"
+                android:layout_centerInParent="true"
+                android:layout_marginLeft="10dp"
+                android:layout_alignParentLeft="true"
+                android:text="0:00"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtFim"
+                android:textSize="12sp"
+                android:layout_below="@id/seekBar"
+                android:layout_marginRight="10dp"
+                android:layout_alignParentRight="true"
+                android:text="0:00"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <GridView
+        android:id="@+id/gridView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:background="@color/backgroundColor"
+        android:columnWidth="100dp"
+        android:gravity="center"
+        android:horizontalSpacing="30dp"
+        android:numColumns="auto_fit"
+        android:paddingTop="5dp"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="20dp"
+        android:layout_above="@id/linerLayout"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"/>
+
+
+
+</RelativeLayout>

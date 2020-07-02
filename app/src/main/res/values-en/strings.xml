@@ -1,0 +1,52 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Botões de Meme</string>
+    <string name="titulo">Botões de Memes</string>
+    <string name="banner_bottom">ca-app-pub-2035416727494205/1032286041</string>
+    <string name="banner_interstitial">ca-app-pub-2035416727494205/5685846923</string>
+    <string name="idApp">ca-app-pub-2035416727494205~7901904580</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="favoritos">Favorites</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="Tab1">Instant Buttons</string>
+    <string name="Tab2">Songs</string>
+    <string name="iconeInfo">Double tap on meme to share and to favorite</string>
+    <string name="compartilhar">Share</string>
+    <string name="addSucesso">Audio added successfully!</string>
+    <string name="addFalha">Something went wrong!</string>
+    <string name="addVerificar">Audio has already been added!</string>
+    <string name="deletarAudio">Audio deleted successfully!</string>
+    <string name="adicionar">Add to favorites</string>
+    <string name="excluir">Delete</string>
+    <string name="compartilharMenu">Share</string>
+    <string name="buscar">Search…</string>
+    <string name="origemMeme">About the meme</string>
+    <string name="download_audio">Audio successfully downloaded!</string>
+    <string name="baixar_audiomenu">Download audio</string>
+    <string name="permissaoBloqueada">Write permission blocked by user!</string>
+    <string name="sugestao">Send meme suggestions</string>
+    <string name="txtSugestao">Memes Suggestions</string>
+    <string name="enviar">Send</string>
+    <string name="obrigado">Thanks for the suggestion!</string>
+    <string name="buscarItem">Search</string>
+    <string name="videos">Videos</string>
+
+    <string name="some_demos_disabled">* Your device is currently running Android API version <xliff:g id="current_version">%1$s</xliff:g>.</string>
+    <string name="list_item_disabled">Requires Android API version <xliff:g id="required_version">%1$s</xliff:g> or higher.</string>
+
+    <string name="youtube_currently_installed">Versão do Youtube instalada no aparelho: <xliff:g id="youtube_version">%1$s</xliff:g>.</string>
+    <string name="youtube_not_installed">O Youtube não está instalado nesse aparelho.</string>
+
+    <string name="error_thumbnail_view">There was an error initializing the YouTubeThumbnailView (%1$s)</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="atualizar">Refresh</string>
+    <string name="semConexao">No internet to load the videos</string>
+    <string name="erroAtualizar">There is some problem to refresh!</string>
+    <string name="semVideosNovos">No new videos. Try it later!</string>
+    <string name="atualizando">Searching…</string>
+    <string name="youtubeInstalar">You do not have the Youtube App installed! \n\
+        You will not be able to watch the videos.\n\
+        Please, install Youtube App!</string>
+    <string name="fechar">Close</string>
+
+
+</resources>

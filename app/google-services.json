@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "423147378132",
+    "firebase_url": "https://botoes-de-meme.firebaseio.com",
+    "project_id": "botoes-de-meme",
+    "storage_bucket": "botoes-de-meme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423147378132:android:abc5822e87328f6f",
+        "android_client_info": {
+          "package_name": "com.garciaapps.botoesdememe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423147378132-n7mmrdf5b4snojnft3ng6k033i0nvrsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.garciaapps.botoesdememe",
+            "certificate_hash": "3e64bbf88f9069430aa85aacbd33b505ed0e1003"
+          }
+        },
+        {
+          "client_id": "423147378132-oiqpcf512maba0mbvpfej21d6staum4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.garciaapps.botoesdememe",
+            "certificate_hash": "6ed54c416736e47155fca71de195819160138eea"
+          }
+        },
+        {
+          "client_id": "423147378132-nbubgrnhthiqt2kujleb35h4jbla9739.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClVORzkc8ujNQ5CJv1n3Gx8EADqlZqwqA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423147378132-nbubgrnhthiqt2kujleb35h4jbla9739.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
