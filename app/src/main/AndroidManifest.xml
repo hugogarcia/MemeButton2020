@@ -17,8 +17,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-
-
         <provider
             android:name="androidx.core.content.FileProvider"
             android:authorities="com.garciaapps.botoesdememe"
@@ -60,17 +58,15 @@
 
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="@string/idApp" />
+            android:value="ca-app-pub-2035416727494205~7901904580"/>
+
         <meta-data
             android:name="google_analytics_adid_collection_enabled"
             android:value="false" />
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_icon"
             android:resource="@mipmap/ic_launcher" />
-        <!--
- Set color used with incoming notification messages. This is used when no color is set for the incoming
-             notification message. See README(https://goo.gl/6BKBk7) for more.
-        -->
+
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_color"
             android:resource="@color/colorAccent" />

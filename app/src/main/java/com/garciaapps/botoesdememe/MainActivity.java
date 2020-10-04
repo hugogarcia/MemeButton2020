@@ -2,10 +2,8 @@ package com.garciaapps.botoesdememe;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
-import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.content.pm.ActivityInfo;
 import android.content.pm.PackageManager;
 import android.content.res.Resources;
 import android.database.Cursor;
@@ -15,25 +13,15 @@ import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Environment;
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-import androidx.core.app.ActivityCompat;
-import androidx.fragment.app.Fragment;
-import androidx.core.content.ContextCompat;
-import androidx.core.view.GestureDetectorCompat;
-import androidx.appcompat.app.AppCompatActivity;
 import android.util.Log;
 import android.view.ContextMenu;
-import android.view.GestureDetector;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.GridView;
-import android.widget.ListAdapter;
 import android.widget.Toast;
 
 import java.io.File;
@@ -42,6 +30,12 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Objects;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.core.content.ContextCompat;
+import androidx.core.view.GestureDetectorCompat;
+import androidx.fragment.app.Fragment;
 
 public class MainActivity extends Fragment{
     private static final String TAG = "Instant buttons";
@@ -164,6 +158,14 @@ public class MainActivity extends Fragment{
 
     public static void carregarTabela(){
         img = new int[]{
+                R.drawable.xandao,
+                R.drawable.xandao,
+                R.drawable.xandao,
+                R.drawable.hilorena,
+                R.drawable.nobru,
+                R.drawable.picapau,
+                R.drawable.tiringa,
+                R.drawable.velhomiau,
                 R.drawable.aguacocalatao,
                 R.drawable.aguacocalatao,
                 R.drawable.aguacocalatao,
@@ -613,6 +615,14 @@ public class MainActivity extends Fragment{
         };
 
         sons = new int[]{
+                R.raw.xandao_sempressao,
+                R.raw.xandao_escuridao,
+                R.raw.xandao_biceps,
+                R.raw.hilorena,
+                R.raw.nobru,
+                R.raw.picapau_lavamosnos,
+                R.raw.tiringa,
+                R.raw.velhomiau,
                 R.raw.aguacocalatao,
                 R.raw.aguacocalatao_mary,
                 R.raw.aguacocalatao_gringo,
@@ -1365,6 +1375,14 @@ public class MainActivity extends Fragment{
 
     public void carregarListaAudio() {
         listaAudio = new String[]{
+                "SEM PRESSÃO AQUI É XANDÃO",
+                "NO FIM DA ESCURIDÃO TEM XANDÃO",
+                "TOMA ESSE DOUBLE BICEPS",
+                "Hi Lorena",
+                "Ain Nobru apelão",
+                "E lá vamos nós",
+                "Peraí! Apaga essa peste aí",
+                "MIAAAU",
                 "Água coca latão",
                 "Mary pfff",
                 "Pra gringo é mais caro",

@@ -1,11 +1,9 @@
 package com.garciaapps.botoesdememe;
 
-import android.*;
 import android.Manifest;
 import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.content.pm.ActivityInfo;
 import android.content.pm.PackageManager;
 import android.content.res.Resources;
 import android.database.Cursor;
@@ -18,13 +16,6 @@ import android.os.Build;
 import android.os.Bundle;
 import android.os.Environment;
 import android.os.Handler;
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-import androidx.core.app.ActivityCompat;
-import androidx.fragment.app.Fragment;
-import androidx.core.content.ContextCompat;
-import androidx.core.view.GestureDetectorCompat;
-import androidx.appcompat.app.AppCompatActivity;
 import android.util.Log;
 import android.view.ContextMenu;
 import android.view.GestureDetector;
@@ -32,9 +23,7 @@ import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.View;
-import android.view.ViewConfiguration;
 import android.view.ViewGroup;
-import android.widget.AbsListView;
 import android.widget.AdapterView;
 import android.widget.GridView;
 import android.widget.ImageView;
@@ -47,6 +36,12 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.core.content.ContextCompat;
+import androidx.core.view.GestureDetectorCompat;
+import androidx.fragment.app.Fragment;
 
 public final class MainActivity2 extends Fragment {
     private static final String TAG = "Músicas";
@@ -219,6 +214,11 @@ public final class MainActivity2 extends Fragment {
 
     public static void carregarTabela() {
         img = new int[]{
+                R.drawable.cheiropneu,
+                R.drawable.cheiropneu,
+                R.drawable.cheiropneu,
+                R.drawable.djazeitona,
+                R.drawable.imggeral,
                 R.drawable.memecaixao,
                 R.drawable.coronavirus,
                 R.drawable.dorimerato,
@@ -372,6 +372,11 @@ public final class MainActivity2 extends Fragment {
         };
 
         sons = new int[]{
+                R.raw.cheiropneu_somebody,
+                R.raw.cheiropneu_dontstart,
+                R.raw.cheiropneu_blindinglights,
+                R.raw.djazeitona,
+                R.raw.imggeral_cabeleleilaleila,
                 R.raw.memecaixao,
                 R.raw.coronavirus_remix,
                 R.raw.dorime_remix,
@@ -948,6 +953,11 @@ public final class MainActivity2 extends Fragment {
 
     public void carregarListaMusica() {
         listaMusica = new String[]{
+                "Cheiro de Somebody That I Used to Know",
+                "Cheiro de Don't Start Now",
+                "Cheiro de Blinding Lights",
+                "Blinding Azeitona",
+                "Cabeleleila Leila",
                 "Meme do caixão",
                 "Corona virus brega funk",
                 "Rato dorime",

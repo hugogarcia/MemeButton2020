@@ -5,28 +5,15 @@ import android.app.SearchManager;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.content.pm.ActivityInfo;
 import android.content.res.Configuration;
 import android.media.AudioManager;
-import android.net.ConnectivityManager;
-import android.net.NetworkInfo;
 import android.os.Build;
 import android.os.Bundle;
-import android.os.Handler;
-import com.google.android.material.tabs.TabLayout;
-import androidx.fragment.app.Fragment;
-import androidx.fragment.app.FragmentTransaction;
-import androidx.core.view.MenuItemCompat;
-import androidx.viewpager.widget.ViewPager;
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.SearchView;
-import 	androidx.appcompat.widget.Toolbar;
 import android.util.Log;
 import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.ViewGroup;
 import android.view.WindowManager;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.AbsListView;
@@ -36,28 +23,27 @@ import android.widget.Filter;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import com.android.volley.Request;
-import com.android.volley.RequestQueue;
-import com.android.volley.Response;
-import com.android.volley.VolleyError;
-import com.android.volley.toolbox.JsonObjectRequest;
-import com.android.volley.toolbox.Volley;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
 import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.android.material.tabs.TabLayout;
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.InstanceIdResult;
 import com.google.firebase.messaging.FirebaseMessaging;
 
-import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.util.ArrayList;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.SearchView;
+import androidx.appcompat.widget.Toolbar;
+import androidx.fragment.app.FragmentTransaction;
+import androidx.viewpager.widget.ViewPager;
 
 public class TabActivity extends AppCompatActivity {
 
@@ -151,7 +137,7 @@ public class TabActivity extends AppCompatActivity {
         }*/
 
         //----------------PROPAGANDA---------------
-        MobileAds.initialize(this, getString(R.string.idApp));
+        MobileAds.initialize(this);
         adView = (AdView) findViewById(R.id.adViewBottom);
         adRequest = new AdRequest.Builder().build();
         adView.loadAd(adRequest);
@@ -480,9 +466,11 @@ public class TabActivity extends AppCompatActivity {
                     telaDePesquisa = true;
                     incluirPesquisa();
                     String filtro = newText.trim();
-                    filtroPesquisa = adapterAudio.getFilter();
+
                     if (posicaoFragment == 1) {
                         filtroPesquisa = adapterMusica.getFilter();
+                    }else{
+                        filtroPesquisa = adapterAudio.getFilter();
                     }
                     filtroPesquisa.filter(filtro);
 
@@ -493,7 +481,6 @@ public class TabActivity extends AppCompatActivity {
                     return false;
                 }
             });
-
 
             botaoBuscar.setOnActionExpandListener(new MenuItem.OnActionExpandListener() {
                 FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
@@ -591,7 +578,14 @@ public class TabActivity extends AppCompatActivity {
     }
 
     public void carregarListaAudio() {
-
+        listaAudio.add("SEM PRESSÃO AQUI É XANDÃO");
+        listaAudio.add("NO FIM DA ESCURIDÃO TEM XANDÃO");
+        listaAudio.add("TOMA ESSE DOUBLE BICEPS");
+        listaAudio.add("Hi Lorena");
+        listaAudio.add("Ain Nobru apelão");
+        listaAudio.add("E lá vamos nós");
+        listaAudio.add("Peraí! Apaga essa peste aí");
+        listaAudio.add("MIAAAU");
         listaAudio.add("Água coca latão");
         listaAudio.add("Mary pfff");
         listaAudio.add("Pra gringo é mais caro");
@@ -1041,6 +1035,11 @@ public class TabActivity extends AppCompatActivity {
     }
 
     public void carregarListaMusica() {
+        listaMusica.add("Cheiro de Somebody That I Used to Know");
+        listaMusica.add("Cheiro de Don't Start Now");
+        listaMusica.add("Cheiro de Blinding Lights");
+        listaMusica.add("Blinding Azeitona");
+        listaMusica.add("Cabeleleila Leila");
         listaMusica.add("Meme do caixão");
         listaMusica.add("Corona virus brega funk");
         listaMusica.add("Rato dorime");

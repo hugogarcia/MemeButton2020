@@ -16,703 +16,148 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84c28556-3ccb-4fba-8fe5-0091e3618f2f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/aguacocalatao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/coronavirus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/dorimerato.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/memecaixao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/seboso.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tigas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/aguacocalatao.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/aguacocalatao_gringo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/aguacocalatao_mary.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/aguacocalatao_rackcheque.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/coronavirus.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/coronavirus_remix.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/dorime_remix.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_fazerchurrasco.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_manotuegay.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_manotuegay_testando.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_manotuegay_tuquedeixa.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_risadaladrao.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/memecaixao.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/seboso.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/tigas_fala300.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app-release.apk" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_instrumentation_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_19_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_base_19_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_lite_19_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_gass_19_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_17_5_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_api_17_5_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_base_17_5_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_impl_17_5_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_17_5_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_api_17_5_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_17_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_ads_19_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_17_5_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_installations_16_3_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/cheiropneu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/djazeitona.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hilorena.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/nobru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tiringa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/velhomiau.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/xandao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/cheiropneu_blindinglights.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/cheiropneu_dontstart.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/cheiropneu_somebody.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/djazeitona.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/hilorena.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_cabeleleilaleila.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/nobru.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/picapau_lavamosnos.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/tiringa.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/velhomiau.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/xandao_biceps.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/xandao_escuridao.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/xandao_sempressao.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Projeto_Androd_Studio_MemeButtons_app_libs_YouTubeAndroidPlayerApi_jar_unspecified_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____app_libs_YouTubeAndroidPlayerApi_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Projeto_Androd_Studio_MemeButtons_app_libs_activation_jar_unspecified_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____app_libs_activation_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Projeto_Androd_Studio_MemeButtons_app_libs_additionnal_jar_unspecified_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____app_libs_additionnal_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Projeto_Androd_Studio_MemeButtons_app_libs_mail_jar_unspecified_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____app_libs_mail_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_browser_browser_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_browser_browser_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_0_alpha3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_0_alpha3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_0_alpha3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_0_alpha3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_1_0_alpha3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_1_0_alpha3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_1_0_alpha3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_1_0_alpha3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_volley_volley_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_volley_volley_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_3_7_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_3_7_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_datatransport_transport_api_2_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_datatransport_transport_api_2_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_datatransport_transport_backend_cct_2_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_datatransport_transport_backend_cct_2_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_datatransport_transport_runtime_2_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_datatransport_transport_runtime_2_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_19_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_base_19_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_identifier_17_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_identifier_17_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_lite_19_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_17_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_17_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_gass_19_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_17_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_api_17_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_base_17_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_impl_17_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_17_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_api_17_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_stats_17_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_stats_17_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_17_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_ads_19_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_17_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_19_3_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_19_3_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_components_16_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_components_16_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_datatransport_17_0_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_datatransport_17_0_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_encoders_json_16_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_encoders_json_16_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_20_1_5_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_20_1_5_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_interop_17_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_interop_17_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_installations_16_2_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_installations_interop_16_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_installations_interop_16_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_18_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_18_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_messaging_20_1_5_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_messaging_20_1_5_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MemeButtons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MemeButtons.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/hgrandomapps/memebuttons/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/app-release.aab" beforeDir="false" afterPath="$PROJECT_DIR$/app/release/app-release.aab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hgrandomapps/memebuttons/Adaptador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hgrandomapps/memebuttons/DatabaseHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hgrandomapps/memebuttons/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hgrandomapps/memebuttons/MainActivity2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hgrandomapps/memebuttons/SectionsPageAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hgrandomapps/memebuttons/TabActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/acelera.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/acelera.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/agaraga.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/agaraga.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/agoraentendi.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/agoraentendi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/aipaipara.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/aipaipara.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/aiquedelicia.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/aiquedelicia.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/alborguetti.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/alborguetti.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/allahuakbar.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/allahuakbar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/aloha.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/aloha.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/amandaklein.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/amandaklein.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ameno.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ameno.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/andremarques.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/andremarques.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/arquivoxfunk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/away.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/away.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/backyardigans.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bambam.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bambam.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/beijanaboca.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/beijanaboca.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bemlouco.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bemlouco.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bocafoifeitapracomer.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bocafoifeitapracomer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bolsonaro.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bolsonaro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bope.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bope.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/borracha.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/borracha.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/caceteagulha.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/caceteagulha.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/cadacachorro.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/cagadodefome.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/cagadodefome.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/capitaonascimento.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/capitaonascimento.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/carlosalberto.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/carlosalberto.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/carne.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/carne.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/carretafuracao.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/carretafuracao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/carro.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/carro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/celoucocachoeira.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/celoucocachoeira.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/cepodemadeira.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/cepodemadeira.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/cetemdemencia.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/cetemdemencia.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/chatubademesquita.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/chaves.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/chaves.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/chicobioca.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/cleber_negros.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/cleber_negros.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/cleiton.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/cleiton.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/coerapaziada.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/coerapaziada.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/crash.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/crash.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/davyjones.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/davyjones.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/deepweb.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/deepweb.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/deusessaoreais.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/deusessaoreais.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/didi.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/didi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/differentstrokes.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/differentstrokes.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/dilma.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/dilma.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/divertidamente.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/divertidamente.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/djrogerinho.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/dollynho.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/dollynho.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/douglas.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/douglas.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/eaimanobrown.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/eaimanobrown.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/efistaile.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/efistaile.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/eitaporra.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/eitaporra.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/elementocaradepau.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/elementocaradepau.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ementira.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ementira.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/eoque.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/eoque.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/erroufeio.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/erroufeio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/etetra.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/etetra.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/eupito.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/eupito.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/eusouseupai.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/eusouseupai.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/fallen.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fallen.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/familyguy.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/familyguy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/faustao_errou.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/faustao_errou.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/fazourro.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fazourro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/feijaotorpedo.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/feijaotorpedo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/felipe.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/felipe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/filmaefala.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/filmaefala.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/filosofopiton.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/filosofopiton.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/flautatriste.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/flautatriste.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/fodase.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fodase.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/foiotimo.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/foiotimo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/formigamorri.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/formigamorri.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/fred.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fred.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/galocego.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/galocego.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/gatomiopia.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/gatomiopia.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/giovana.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/giovana.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/gleyfy.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/gleyfy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/goiaba.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/goiaba.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/gordinhoesoh.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/gordinhoesoh.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/gorila.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/harrypotter.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/harrypotter.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/hastad.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hastad.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/heman.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/heman.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/hmmboiola.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hmmboiola.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/homemfoiaosol.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/homemfoiaosol.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/homer.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/homer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/humemesmo.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/humemesmo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/icone_buscar.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/icone_buscar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/igorneragay.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/igorneragay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/illuminati.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/illuminati.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/imggeral.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/imggeral.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/inhegasshooting.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/inhegasshooting.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/irineu.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/irineu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/irmaodojailson.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/jaacaboujessica.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/jaacaboujessica.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/jeremias.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/jeremias.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/jesusjardineiro.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/jesusjardineiro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/joaoamerica.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/joaoamerica.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/joaodanica.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/joaodanica.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/joaogordo.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/joaogordo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/johncena.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/johncena.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/jooj.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/jooj.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/juao.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/juao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/jubileu.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/jubileu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/julius.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/julius.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/kidbengala.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/laricadosmoleque.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/laricadosmoleque.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/leandrohassum.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/leandrohassum.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/leo.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/leo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/lionman.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/lionman.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/luanaotemporta.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/luanaotemporta.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/luangameplay_minecraft.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/luangameplay_minecraft.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/lucas.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/lucas.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/lucascsgo.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/lucascsgo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/lucasnetto.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/lucasnetto.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/luisroberto.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/luisroberto.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/magrelinho.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/magrelinho.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/maguilacantando.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/maguilacantando.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/maisde300reais.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/maisde300reais.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/maluco.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/maluco.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/marciocanuto.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/marciocanuto.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/marco.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/marco.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/marilene.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/marilene.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/marmotagritando.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/marmotagritando.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/matiformiga.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/matiformiga.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/mcbinladen.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/mcbinladen.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/mccarol.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/mcchampion.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/mcchampion.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/mclan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/mcmudinho.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/mcmudinho.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/medelicenca.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/medelicenca.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/medepapai.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/medepapai.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/mexicano.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/mexicano.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/miau.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/miau.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/miseravel.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/miseravel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/monstroolhoso.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/monstroolhoso.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/morrediabo.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/morrediabo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/motoprofeta.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/motoprofeta.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/mustafary.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/mustafary.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/nandomoura.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/nandomoura.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/naoentendi.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/naoentendi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/naosei.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/naosei.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/naoseipreso.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/naoseipreso.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/naruto.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/naruto.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/negobam.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/nossaquebosta.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/nossaquebosta.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/nuncamexa.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/nuncamexa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/nuncanemvi.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/nuncanemvi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ohogas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ohsefodeu.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ohsefodeu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/oimeuchapa.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/oimeuchapa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/omaewa.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/omaewa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ouch.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ouch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/paichorando.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/paichorando.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/panificadora.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/panificadora.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/paodebatata.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/paodebatata.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/papacapim.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/papacapim.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/papaco.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/papaco.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/pele.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/pele.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/pepino.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/pepino.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/peppapig.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/pesadao.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/pesadao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/picapau.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/picapau.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/piruleta.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/piruleta.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/poderosocastiga.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/poderosocastiga.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/poxacrush.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/poxacrush.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/proerdfunk.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/proerdfunk.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/professor.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/professor.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/pumpedupkicks.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/pumpedupkicks.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/putafalta.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/putafalta.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/quecachorro.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/quecachorro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/quedelicia.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/quedelicia.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/quemerdahein.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/quemerdahein.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/querocafe.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/querocafe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/quevelocidadejunior.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/quevelocidadejunior.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/queviagem.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/queviagem.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/racanegra.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/racanegra.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/react.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/react.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/reidasserpente.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/reidasserpente.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/rezende.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/rhythm.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rhythm.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/rima.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rima.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/rodolfo.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rodolfo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/rolezeiras.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rolezeiras.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/rolezeiras2.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rolezeiras2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/saborsorvete.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/saborsorvete.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/sandra.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sandra.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/sanduiche.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sanduiche.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/sanguedejesus.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sanguedejesus.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/senhora.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/senhora.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/senhorpoliglota.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/senhorpoliglota.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/serjao.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/serjao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/seubuceta.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/seubuceta.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/sikerajunior.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sikerajunior.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/silvio.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/silvio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/soubemmacho.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/soubemmacho.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/soufarao.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/soufarao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/soundofsilence.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/soundofsilence.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/sucodemaracuja.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sucodemaracuja.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/surprisemotherfucker.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/surprisemotherfucker.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/taldomula.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/taldomula.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/tapita.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tapita.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/taumaporra.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/taumaporra.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/tavabom.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tavabom.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/tenho2real.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tenho2real.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/tiririca.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tiririca.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/tiro.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tiro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/titanic.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/titanic.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/tobecontinued.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tobecontinued.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/tocapisadinha.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tocapisadinha.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/tomacachaca.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tomacachaca.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/treta.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/treta.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/trivago.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/trivago.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/trololo.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/trololo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/turndown.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/turndown.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/vaidarmerda.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/vaidarmerda.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/vaifilhao.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/vaifilhao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/vaitomarnocu.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/vaitomarnocu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/vamosdancartudonu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/vegeta.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/vegeta.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/velha.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/velha.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/velhanada.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/velhanada.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/velhoaiai.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/velhoaiai.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/venomextreme.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/venomextreme.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/viadaobonito.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/viadaobonito.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/vitas.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/vitas.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/voceeburro.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/voceeburro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/voucagarnacalca.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/voucagarnacalca.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/whatafuck.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/whatafuck.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/whatsapp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/whindersson.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/whindersson.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/wilsonvai.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/wilsonvai.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/winx.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/winx.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/xenhenhem.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/xenhenhem.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/xuxa.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/xuxa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/yoda.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/yoda.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/yourebeautiful.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/yourebeautiful.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_tab.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_tab.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_tab.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_tab.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/acelera_jesus.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/acelera_jesus.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/acelera_passei.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/acelera_passei.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/agaraga.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/agaraga.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/agaraga_abertura.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/agaraga_abertura.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/agoraentendi.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/agoraentendi.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/aipaipara.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/aipaipara.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/aiquedelicia.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/aiquedelicia.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/alborguetti_cademeupau.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/alborguetti_cademeupau.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/alborguetti_toloco.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/alborguetti_toloco.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/alborguetti_vaamerda.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/alborguetti_vaamerda.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/allahuakbar.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/allahuakbar.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/aloha.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/aloha.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/amandaklein.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/amandaklein.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/ameno_mcgorila.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/andremarques_deixaosgarotos.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/andremarques_deixaosgarotos.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/andremarques_sampleguitarra.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/andremarques_sampleguitarra.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/arquivoxfunk.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/away_naoacredito.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/away_naoacredito.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/away_para.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/away_para.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/backyardigans.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/bambam_ajuda.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/bambam_ajuda.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/bambam_birl.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/bambam_birl.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/bambam_horadoshow.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/bambam_horadoshow.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/bambam_saidecasa.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/bambam_saidecasa.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/beijanaboca.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/beijanaboca.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/bemlouco.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/bemlouco.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/bemlouco_empolgante.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/bemlouco_empolgante.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/bocafoifeitapracomer.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/bocafoifeitapracomer.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/bolsonaro_daquetedououtra.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/bolsonaro_daquetedououtra.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/bolsonaro_naoto.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/bolsonaro_naoto.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/bope_esqueceessamerda.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/bope_esqueceessamerda.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/bope_satisfacaoaspira.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/bope_satisfacaoaspira.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/borracha.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/borracha.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/caceteagulha_cacete.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/caceteagulha_cacete.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/caceteagulha_firma.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/caceteagulha_firma.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/cadacachorro.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/cagadodefome.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/cagadodefome.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/capitaonascimento_calaraboca.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/capitaonascimento_calaraboca.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/capitaonascimento_naovaisubir.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/capitaonascimento_naovaisubir.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/carlosalberto_risada.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/carlosalberto_risada.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/carne_bebinho.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/carne_brincadeira.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/carne_brincadeira.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/carne_cheiro.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/carne_cheiro.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/carne_vaiserassado.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/carne_vaiserassado.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/carretafuracao.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/carretafuracao.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/carro_dirigindofunk.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/carro_dirigindofunk.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/celoucocachoeira_cachoeira.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/celoucocachoeira_cachoeira.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/celoucocachoeira_sopordeus.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/celoucocachoeira_sopordeus.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/celoucocachoeira_tarado.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/cepodemadeira.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/cepodemadeira.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/cepodemadeira_bemduro.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/cepodemadeira_bemduro.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/cetemdemencia.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/cetemdemencia.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/chatubademesquita.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/chatubademesquita_ben10.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/chaves_aiqueburro.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/chaves_aiqueburro.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/chaves_funktriste.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/chaves_funktriste.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/chicobioca.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/chicobioca.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/chicobioca_quem.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/cleber_hojenao.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/cleber_hojenao.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/cleber_negros.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/cleber_negros.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/cleiton_chama.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/cleiton_chama.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/coerapaziada.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/coerapaziada.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/crash_woah.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/crash_woah.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/davyjones_eugostei.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/davyjones_eugostei.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/davyjones_jogomaneirao.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/davyjones_jogomaneirao.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/davyjones_maneiropracaralho.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/davyjones_maneiropracaralho.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/davyjones_querofuder.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/davyjones_querofuder.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/davyjones_tobrabo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/davyjones_tobrabo.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/deepweb_funk.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/deepweb_funk.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/deusessaoreais.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/deusessaoreais.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/didi_emorreu.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/didi_emorreu.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/differentstrokes.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/differentstrokes.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/dilma_estocandovento.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/dilma_estocandovento.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/dilma_saudandoamandioca.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/dilma_saudandoamandioca.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/divertidamente.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/divertidamente.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/djrogerinho.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/dollynho.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/dollynho.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/douglas.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/douglas.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/douglas_ceefeio.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/douglas_ceefeio.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/eaimanobrown_tametirando.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/eaimanobrown_tametirando.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/efistaile.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/efistaile.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/eitaporra.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/eitaporra.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/elementocaradepau.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/elementocaradepau.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/ementira.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/ementira.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/eoque.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/eoque.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/erroufeio.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/erroufeio.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/etetra.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/etetra.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/eupito.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/eupito.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/eusouseupai.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/eusouseupai.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/eusouseupai_elesefuderam.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/fallen_tenhoprobleminha.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/fallen_tenhoprobleminha.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/familyguy_ah.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/familyguy_ah.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/faustao_errou.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/faustao_errou.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/faustao_tapegandofogo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/faustao_tapegandofogo.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/fazourro.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/fazourro.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/feijaotorpedo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/feijaotorpedo.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/felipe_fazcomigonao.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/felipe_fazcomigonao.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/felipe_guarapari.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/felipe_guarapari.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/felipe_saidaedoido.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/felipe_saidaedoido.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/felipe_samu.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/felipe_samu.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/filmaefala.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/filmaefala.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/filmaefala_capeteprego.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/filmaefala_capeteprego.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/filmaefala_suspeito.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/filmaefala_suspeito.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/filosofopiton.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/flautatriste.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/flautatriste.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/fodase.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/fodase.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/foiotimo_foiotimo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/foiotimo_foiotimo.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/formigamorri.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/formigamorri.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/fred.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/fred.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/galocego_achaqueiafazerisso.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/galocego_achaqueiafazerisso.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/galocego_compraralimento.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/galocego_compraralimento.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/galocego_eue.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/galocego_eue.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/galocego_nadaaver.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/galocego_nadaaver.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/galocego_naosabia.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/galocego_naosabia.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/galocego_tudoerrado.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/galocego_tudoerrado.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/gatomiopia.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/gatomiopia.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/giovana_eita.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/giovana_eita.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/gleyfy_neverletmego.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/goiaba.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/goiaba.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/gordinhoesoh.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/gordinhoesoh.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/gorila_cheiodesal.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/gorila_gordelicia.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/gorila_jiboia.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/gorila_kelly.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/gorila_novinho.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/gorila_paunelas.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/gorila_sujoudecoco.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/gorila_tiraleite.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/gorila_vemmamando.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/harrypotter.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/harrypotter.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/hastad_gordofdp.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/hastad_nha.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/hastad_nha.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/heman_whatsgoingon.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/heman_whatsgoingon.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/hmmboiola.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/hmmboiola.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/homemfoiaosol.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/homemfoiaosol.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/homer_emesmo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/homer_emesmo.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/humemesmo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/humemesmo.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/igorneragay.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/igorneragay.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/illuminati.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/illuminati.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/illuminati_funk.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/illuminati_funk.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_aimae.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_aimae.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_aimeucu.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_aimeucu.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_aimisericordia.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_aimisericordia.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_animalburrao.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_animalburrao.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_balaomagicofunk.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_balaomagicofunk.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_boanoite.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_cadeochinelo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_cadeochinelo.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_caralhomane.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_caralhomane.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_cheirinhodesexo.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_chupavaosuvaco.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_chupavaosuvaco.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_correberg.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_correberg.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_euvoucair.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_euvoucair.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_funkingles.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_funkingles.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_gemidowhats.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_homemmacaco.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_homemmacaco.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_isolados.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_isolados.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_jamelao.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_jamelao.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_jaqueline.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_jogandovideogame.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_jogandovideogame.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_mederrubaramaqui.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_mederrubaramaqui.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_moco.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_nuncamaisvoudormir.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_nuncamaisvoudormir.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_painossofunk.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_painossofunk.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_pauquebrando.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_pauquebrando.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_saidafrentesatanas.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_saidafrentesatanas.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_saidaquiseucachorro.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_saidaquiseucachorro.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_saidesgraca.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_saidesgraca.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_suaputa.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_sweetdreams.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_sweetdreams.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_tchutcha.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_tchutcha.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_tecladolindinho.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_tecladolindinho.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_trollei.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_trollei.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_uhminhanossa.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_uhminhanossa.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_unidunite.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_unidunite.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_vaimorrerviado.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/imggeral_vaimorrerviado.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/inhegasshooting.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/inhegasshooting.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/irineu.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/irineu.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/irineu_mandela.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/irineu_mandela.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/irineu_musica.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/irineu_musica.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/irmaodojailson.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/jaacaboujessica.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/jaacaboujessica.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/jeremias.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/jeremias.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/jesusjardineiro.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/jesusjardineiro.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/joaoamerica_filhadaputa.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/joaoamerica_filhadaputa.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/joaodanica_gatosnao.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/joaodanica_gatosnao.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/joaodanica_lionelmessenger.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/joaodanica_lionelmessenger.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/joaodanica_querotequebrar.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/joaodanica_querotequebrar.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/joaodanica_sabeondeto.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/joaodanica_sabeondeto.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/joaogordo_somedaqui.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/joaogordo_somedaqui.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/johncena.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/johncena.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/jooj.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/jooj.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/juao_oquefizcomminhavida.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/juao_oquefizcomminhavida.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/juao_seraquevouvencer.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/juao_seraquevouvencer.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/juao_souummerda.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/juao_souummerda.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/juao_vontadedechorarmaior.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/juao_vontadedechorarmaior.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/jubileu.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/jubileu.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/julius_tavabrincando.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/julius_tavabrincando.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/kidbengala_comer.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/kidbengala_enterrei3.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/kidbengala_taarrombado.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/kidbengala_temato.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/laricadosmoleque_tocomfome.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/laricadosmoleque_tocomfome.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/leandrohassum_fudeudevez.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/leandrohassum_fudeudevez.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/leo_hanhein.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/leo_hanhein.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/leo_malucoebrabo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/leo_malucoebrabo.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/lionman_umadadiva.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/lionman_umadadiva.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/luanaotemporta.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/luanaotemporta.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/luangameplay_minecraft.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/luangameplay_minecraft.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/lucas_sonimbleinem1.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/lucas_sonimbleinem1.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/lucas_sonimbleinem2.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/lucas_sonimbleinem2.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/lucascsgo_javai.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/lucascsgo_javai.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/lucascsgo_querota.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/lucascsgo_querota.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/lucasnetto_foca.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/lucasnetto_foca.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/magrelinho.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/magrelinho.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/maguilacantando.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/maguilacantando.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/maguilacantando_faleceu.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/maguilacantando_faleceu.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/maisde300reais.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/maisde300reais.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/maluco.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/maluco.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/marciocanuto_impossivel.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/marciocanuto_impossivel.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/marco_tacalepau.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/marco_tacalepau.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/marilene.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/marilene.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/marmotagritando.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/marmotagritando.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/matiformiga.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/matiformiga.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/mcbinladen_shakeitbololo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/mcbinladen_shakeitbololo.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/mcbinladen_tatranquilo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/mcbinladen_tatranquilo.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/mccarol_bateuumaondaforte.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/mccarol_jorginho.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/mcchampion.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/mcchampion.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/mclan_anos80.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/mclan_gameofthrones.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/mclan_inthenameofxuliana.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/mclan_shapeofyou.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/mcmudinho.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/mcmudinho.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/medelicenca.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/medelicenca.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/medepapai.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/medepapai.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/mexicano_chopsuey.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/mexicano_chopsuey.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/mexicano_numb.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/mexicano_numb.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/miau.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/miau.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/miseravel.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/miseravel.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/miseravel_acertou.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/miseravel_acertou.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/monstroolhoso.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/monstroolhoso.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/morrediabo_morre.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/morrediabo_morre.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/morrediabo_naointeressa.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/morrediabo_naointeressa.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/morrediabo_tofalando.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/morrediabo_tofalando.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/motoprofeta.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/motoprofeta.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/mustafary_saidaqui.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/mustafary_saidaqui.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/nandomoura_malakoi.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/nandomoura_malakoi.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/nandomoura_oqueeisso.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/nandomoura_oqueeisso.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/nandomoura_voceezoeiro.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/nandomoura_voceezoeiro.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/naoentendi.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/naoentendi.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/naosei.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/naosei.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/naoseipreso.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/naoseipreso.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/naruto.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/naruto.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/negobam_ameno.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/negobam_friends.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/nossaquebosta.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/nossaquebosta.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/nuncamexa.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/nuncamexa.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/nuncanemvi.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/nuncanemvi.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/nuncanemvi_quediafoiisso.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/nuncanemvi_quediafoiisso.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/ohogas.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/ohsefodeu.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/ohsefodeu.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/oimeuchapa.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/oimeuchapa.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/omaewa.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/omaewa.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/ouch.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/ouch.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/paichorando.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/paichorando.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/panificadora_cacetinho.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/panificadora_cacetinho.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/panificadora_manteiga.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/panificadora_manteiga.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/panificadora_musica.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/panificadora_musica.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/paodebatata.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/paodebatata.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/papacapim.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/papacapim.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/papaco_aindabem.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/papaco_aindabem.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/papaco_bundamole.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/papaco_bundamole.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/papaco_cagao.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/papaco_cagao.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/papaco_faloucomigo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/papaco_faloucomigo.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/pele.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/pele.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/pele_soujosoares.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/pele_soujosoares.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/pepino.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/pepino.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/peppapig_senta.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/pesadao_izi.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/pesadao_izi.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/pesadao_pesadao.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/pesadao_pesadao.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/pesadao_quentinho.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/pesadao_quentinho.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/picapau_fuitapeado.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/picapau_fuitapeado.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/picapau_inventa.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/picapau_inventa.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/piruleta_bicho.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/piruleta_bicho.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/piruleta_cuzao.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/piruleta_olhaosaco.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/piruleta_tiraascalca.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/piruleta_tiraascalca.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/poderosocastiga_maisoumenos.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/poderosocastiga_maisoumenos.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/poxacrush.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/poxacrush.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/proerdfunk.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/proerdfunk.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/professor.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/professor.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/pumpedupkicks_funk.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/pumpedupkicks_funk.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/putafalta.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/putafalta.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/quecachorro.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/quecachorro.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/quedelicia.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/quedelicia_essapeca.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/quedelicia_essapeca.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/quemerdahein.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/quemerdahein.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/querocafe.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/querocafe.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/querocafe_desculpe.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/querocafe_desculpe.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/quevelocidadejunior.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/quevelocidadejunior.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/queviagem.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/queviagem.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/racanegra_fingindo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/racanegra_fingindo.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/racanegra_jaentendi.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/racanegra_jaentendi.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/react_olhaosdeuses.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/react_olhaosdeuses.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/react_quemeessecara.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/react_quemeessecara.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/reidasserpente_saidomeiomenino.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/reidasserpente_saidomeiomenino.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/rezende_furioso.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/rezende_leite.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/rezende_travestigay.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/rhythm.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/rhythm.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/rima_nadaaver.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/rima_nadaaver.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/rima_semnexo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/rima_semnexo.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/rima_teucu.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/rima_teucu.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/rodolfo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/rodolfo.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/rolezeiras.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/rolezeiras.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/rolezeiras2.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/rolezeiras2.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/rolezeiras_eusourolezeira.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/rolezeiras_eusourolezeira.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/rolezeiras_ideiaerrada.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/rolezeiras_ideiaerrada.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/saborsorvete.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/saborsorvete.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/sandra_quedeselegante.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/sandra_quedeselegante.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/sanduiche.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/sanduiche.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/sanguedejesus.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/sanguedejesus.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/senhora.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/senhora.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/senhorpoliglota_camboya.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/senhorpoliglota_camboya.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/senhorpoliglota_lapaloma.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/senhorpoliglota_lapaloma.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/senhorpoliglota_niju.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/senhorpoliglota_niju.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/serjao_aquitemcoragem.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/serjao_aquitemcoragem.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/serjao_autoridadesdoibama.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/serjao_autoridadesdoibama.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/serjao_barulhoonca.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/serjao_barulhoonca.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/serjao_comfenopaieterno.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/serjao_comfenopaieterno.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/serjao_eaverdade.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/serjao_eaverdade.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/serjao_matadordeonca.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/serjao_matadordeonca.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/serjao_mclan.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/serjao_mclan.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/serjao_nacalcacagar.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/serjao_nacalcacagar.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/serjao_oncanozoologico.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/serjao_oncanozoologico.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/serjao_valeuporduasoumais.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/serjao_valeuporduasoumais.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/seubuceta.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/seubuceta.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/seubuceta_voudevolvernao.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/seubuceta_voudevolvernao.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/sikerajunior_eocrimeenois.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/sikerajunior_eocrimeenois.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/sikerajunior_maconhamusica.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/sikerajunior_maconhamusica.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/silvio_enfianoteucu.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/silvio_enfianoteucu.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/silvio_naoconsegue.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/silvio_naoconsegue.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/soubemmacho.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/soubemmacho.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/soufarao.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/soufarao.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/soundofsilence.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/soundofsilence.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/soundofsilence_jocelyn.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/soundofsilence_jocelyn.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/soundofsilence_whatchasay.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/soundofsilence_whatchasay.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/sucodemaracuja_inibiza.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/sucodemaracuja_inibiza.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/sucodemaracuja_original.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/sucodemaracuja_original.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/sucodemaracuja_runaway.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/sucodemaracuja_runaway.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/surprisemotherfucker.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/surprisemotherfucker.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/taldomula.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/taldomula.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/tapita.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/tapita.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/tapita_camisarosa.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/tapita_camisarosa.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/taumaporra.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/taumaporra.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/tavabom.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/tavabom.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/tenho2real.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/tenho2real.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/tiririca_soueu.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/tiririca_soueu.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/tiro.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/tiro.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/titanic_flauta.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/titanic_flauta.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/tobecontinued.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/tobecontinued.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/tocapisadinha.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/tocapisadinha.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/tomacachaca.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/tomacachaca.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/tongo_pumpedupkicks.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/tongo_pumpedupkicks.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/treta.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/treta.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/trivago_final.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/trivago_final.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/trivago_hotel.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/trivago_hotel.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/trololo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/trololo.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/turndown.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/turndown.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/vaidarmerda.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/vaidarmerda.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/vaifilhao.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/vaifilhao.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/vaitomarnocu.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/vaitomarnocu.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/vamosdancartudonu.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/vegeta.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/vegeta.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/velha_tachovendoai.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/velha_tachovendoai.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/velhanada.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/velhanada.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/velhoaiai.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/velhoaiai.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/venomextreme_taficandoapertado.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/venomextreme_taficandoapertado.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/viadaobonito.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/viadaobonito.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/vimprapassear.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/vimprapassear.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/vitas.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/vitas.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/voceeburro.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/voceeburro.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/voucagarnacalca.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/voucagarnacalca.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/whatafuck.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/whatafuck.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/whindersson_orradiacho.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/whindersson_orradiacho.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/winx.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/winx.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/xenhenhem.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/xenhenhem.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/xuxa_sentalaclaudia.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/xuxa_sentalaclaudia.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/xuxa_socobate.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/xuxa_socobate.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/yoda_fon.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/yoda_fon.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/yourebeautiful.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/yourebeautiful.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-en/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-en/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-en/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-en/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-en/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-en/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/backup_descriptor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/xml/backup_descriptor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/hgrandomapps/memebuttons/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/garciaapps/botoesdememe/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/garciaapps/botoesdememe/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/garciaapps/botoesdememe/MainActivity2.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/garciaapps/botoesdememe/MainActivity2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/garciaapps/botoesdememe/TabActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/garciaapps/botoesdememe/TabActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_28_x86" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5_API_16" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -774,14 +219,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YMtmHG9wjXV9BdaPSEik1ytEci" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="BundleExportedModule" value="app" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_5X_API_28_x86" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-03-06T00:17:34.539Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_5_API_16" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-03T23:34:14.139Z" />
     <property name="ExportApk.ApkPath" value="C:\Projeto Androd Studio\MemeButtons\app" />
     <property name="ExportApk.BuildType" value="release" />
     <property name="ExportApk.BuildVariants" value="release" />
     <property name="ExportApk.Flavors" value="" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.project.structure.last.selected" value="app" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="F:/Sdk" />
@@ -793,8 +244,10 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Projeto Androd Studio\MemeButtons\app\src\main\res\raw" />
+      <recent name="C:\Projeto Androd Studio\MemeButtons\app\src\main\res\drawable" />
+      <recent name="C:\Projeto Androd Studio\MemeButtons\app\src\main\res\mipmap-mdpi" />
     </key>
     <key name="android.template.packageName">
       <recent name="com.garciaapps.botoesdememe" />
@@ -802,23 +255,9 @@
     <key name="android.template.parentActivityClass">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projeto Androd Studio\MemeButtons\app\src\main\res\raw" />
-      <recent name="C:\Projeto Androd Studio\MemeButtons\app\src\main\res\drawable" />
-      <recent name="C:\Projeto Androd Studio\MemeButtons\app\src\main\res\mipmap-mdpi" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Android App.app">
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
@@ -1035,6 +474,40 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="938" height="531" key="GridCell.Tab.0.bottom" timestamp="1601772586732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="531" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601772586732" />
+    <state width="938" height="531" key="GridCell.Tab.0.center" timestamp="1601772586732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="531" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601772586732" />
+    <state width="938" height="531" key="GridCell.Tab.0.left" timestamp="1601772586732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="531" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601772586732" />
+    <state width="938" height="531" key="GridCell.Tab.0.right" timestamp="1601772586732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="531" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601772586732" />
+    <state x="92" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601772962466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601772962466" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1601771799740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601771799740" />
+    <state x="656" y="252" width="607" height="536" key="find.popup" timestamp="1601770780938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="252" width="607" height="536" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601770780938" />
+    <state width="416" height="164" key="javadoc.popup.new" timestamp="1601771449257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="416" height="164" key="javadoc.popup.new/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601771449257" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
