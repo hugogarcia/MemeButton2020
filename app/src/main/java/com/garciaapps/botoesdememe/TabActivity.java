@@ -578,6 +578,10 @@ public class TabActivity extends AppCompatActivity {
     }
 
     public void carregarListaAudio() {
+        listaAudio.add("Um tapa na gostosa");
+        listaAudio.add("Yes baby, thank you");
+        listaAudio.add("Meu filho, tu vai ver coisa - Jotinha");
+        listaAudio.add("Hoje não tô bom pra beber, hoje eu to é ótimo");
         listaAudio.add("SEM PRESSÃO AQUI É XANDÃO");
         listaAudio.add("NO FIM DA ESCURIDÃO TEM XANDÃO");
         listaAudio.add("TOMA ESSE DOUBLE BICEPS");
@@ -1035,6 +1039,7 @@ public class TabActivity extends AppCompatActivity {
     }
 
     public void carregarListaMusica() {
+        listaMusica.add("Oh no - Capone");
         listaMusica.add("Cheiro de Somebody That I Used to Know");
         listaMusica.add("Cheiro de Don't Start Now");
         listaMusica.add("Cheiro de Blinding Lights");

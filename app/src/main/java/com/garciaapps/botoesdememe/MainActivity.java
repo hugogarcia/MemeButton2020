@@ -2,6 +2,8 @@ package com.garciaapps.botoesdememe;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
+import android.content.ContentResolver;
+import android.content.ContentValues;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
@@ -13,6 +15,7 @@ import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Environment;
+import android.provider.MediaStore;
 import android.util.Log;
 import android.view.ContextMenu;
 import android.view.LayoutInflater;
@@ -28,6 +31,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.OutputStream;
 import java.util.ArrayList;
 import java.util.Objects;
 
@@ -158,6 +162,10 @@ public class MainActivity extends Fragment{
 
     public static void carregarTabela(){
         img = new int[]{
+                R.drawable.keanu,
+                R.drawable.keanu,
+                R.drawable.jotinha,
+                R.drawable.imggeral,
                 R.drawable.xandao,
                 R.drawable.xandao,
                 R.drawable.xandao,
@@ -615,6 +623,10 @@ public class MainActivity extends Fragment{
         };
 
         sons = new int[]{
+                R.raw.keanu_umtapanagostosa,
+                R.raw.keanu_yesbaby,
+                R.raw.jotinha_meufilho,
+                R.raw.imggeral_bomprabeber,
                 R.raw.xandao_sempressao,
                 R.raw.xandao_escuridao,
                 R.raw.xandao_biceps,
@@ -1291,7 +1303,13 @@ public class MainActivity extends Fragment{
     }
 
     public void salvarAudio(int som){
+        if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q)
+            salvarAudio_V10Maior(som);
+        else
+            salvarAudio_V9Menor(som);
+    }
 
+    public void salvarAudio_V9Menor(int som){
         final InputStream inputStream;
         final FileOutputStream fileOutputStream;
         try {
@@ -1299,9 +1317,10 @@ public class MainActivity extends Fragment{
             if(!criarDir.exists()){
                 if(!criarDir.mkdirs()){
                     Log.d("App", "failed to create directory");
+                    return;
                 }
             }
-            //String nomeAudio = retirarCaracteres(tabActivity.buscarNomeAudio(posicaoClique)) +".mp3";
+
             String nomeAudio = retirarCaracteres(listaAudio[som]) +".mp3";
             File arquivo = new File(criarDir, nomeAudio);
             inputStream = getResources().openRawResource(sons[som]);
@@ -1312,14 +1331,54 @@ public class MainActivity extends Fragment{
             while ((length = inputStream.read(buffer, 0, 1024)) > 0) {
                 fileOutputStream.write(buffer, 0, length);
             }
-
             inputStream.close();
             fileOutputStream.close();
 
             scanFile(arquivo.toString());
-            toastMessage(getString(R.string.download_audio));
+            toastMessageLong(arquivo.getAbsolutePath());
         } catch (IOException e) {
             e.printStackTrace();
+            toastMessage("Não foi possível fazer o download!");
+        }
+    }
+
+    public void salvarAudio_V10Maior(int som){
+        InputStream inputStream;
+        OutputStream outputStream;
+        try {
+            String nomeAudio = retirarCaracteres(listaAudio[som]) +".mp3";
+            File arquivo = new File( "/storage/emulated/0" + "/" + Environment.DIRECTORY_MUSIC + "/" + nomeAudio);
+            if(arquivo.exists()){
+                toastMessageLong(arquivo.getAbsolutePath());
+                return;
+            }
+
+            ContentResolver resolver = getContext().getContentResolver();
+
+            ContentValues contentValues = new ContentValues();
+            contentValues.put(MediaStore.Audio.Media.DISPLAY_NAME, nomeAudio);
+            contentValues.put(MediaStore.Audio.Media.MIME_TYPE, "audio/mp3");
+            contentValues.put(MediaStore.Audio.Media.RELATIVE_PATH, Environment.DIRECTORY_MUSIC);
+
+            Uri uri = resolver.insert(MediaStore.Audio.Media.EXTERNAL_CONTENT_URI, contentValues);
+
+            outputStream = resolver.openOutputStream(uri);
+
+            inputStream = getResources().openRawResource(sons[som]);
+
+            final byte[] buffer = new byte[1024];
+            int length;
+            while ((length = inputStream.read(buffer, 0, 1024)) > 0) {
+                outputStream.write(buffer, 0, length);
+            }
+
+            inputStream.close();
+            outputStream.close();
+
+            toastMessageLong(arquivo.getAbsolutePath());
+        } catch (Exception e) {
+            e.printStackTrace();
+            toastMessage("Não foi possível fazer o download!");
         }
     }
 
@@ -1375,6 +1434,10 @@ public class MainActivity extends Fragment{
 
     public void carregarListaAudio() {
         listaAudio = new String[]{
+                "Um tapa na gostosa",
+                "Yes baby, thank you",
+                "Meu filho, tu vai ver coisa - Jotinha",
+                "Hoje não tô bom pra beber, hoje eu to é ótimo",
                 "SEM PRESSÃO AQUI É XANDÃO",
                 "NO FIM DA ESCURIDÃO TEM XANDÃO",
                 "TOMA ESSE DOUBLE BICEPS",

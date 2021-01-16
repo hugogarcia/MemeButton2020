@@ -2,6 +2,8 @@ package com.garciaapps.botoesdememe;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
+import android.content.ContentResolver;
+import android.content.ContentValues;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
@@ -16,6 +18,7 @@ import android.os.Build;
 import android.os.Bundle;
 import android.os.Environment;
 import android.os.Handler;
+import android.provider.MediaStore;
 import android.util.Log;
 import android.view.ContextMenu;
 import android.view.GestureDetector;
@@ -35,6 +38,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.OutputStream;
 import java.util.ArrayList;
 
 import androidx.annotation.NonNull;
@@ -214,6 +218,7 @@ public final class MainActivity2 extends Fragment {
 
     public static void carregarTabela() {
         img = new int[]{
+                R.drawable.imggeral,
                 R.drawable.cheiropneu,
                 R.drawable.cheiropneu,
                 R.drawable.cheiropneu,
@@ -372,6 +377,7 @@ public final class MainActivity2 extends Fragment {
         };
 
         sons = new int[]{
+                R.raw.imggeral_ohno,
                 R.raw.cheiropneu_somebody,
                 R.raw.cheiropneu_dontstart,
                 R.raw.cheiropneu_blindinglights,
@@ -872,7 +878,13 @@ public final class MainActivity2 extends Fragment {
     }
 
     public void salvarAudio(int som){
+        if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q)
+            salvarAudio_V10Maior(som);
+        else
+            salvarAudio_V9Menor(som);
+    }
 
+    public void salvarAudio_V9Menor(int som){
         final InputStream inputStream;
         final FileOutputStream fileOutputStream;
         try {
@@ -880,8 +892,10 @@ public final class MainActivity2 extends Fragment {
             if(!criarDir.exists()){
                 if(!criarDir.mkdirs()){
                     Log.d("App", "failed to create directory");
+                    return;
                 }
             }
+
             String nomeAudio = retirarCaracteres(listaMusica[som]) +".mp3";
             File arquivo = new File(criarDir, nomeAudio);
             inputStream = getResources().openRawResource(sons[som]);
@@ -892,14 +906,54 @@ public final class MainActivity2 extends Fragment {
             while ((length = inputStream.read(buffer, 0, 1024)) > 0) {
                 fileOutputStream.write(buffer, 0, length);
             }
-
             inputStream.close();
             fileOutputStream.close();
 
             scanFile(arquivo.toString());
-            toastMessage(getString(R.string.download_audio));
+            toastMessageLong(arquivo.getAbsolutePath());
         } catch (IOException e) {
             e.printStackTrace();
+            toastMessage("Não foi possível fazer o download!");
+        }
+    }
+
+    public void salvarAudio_V10Maior(int som){
+        InputStream inputStream;
+        OutputStream outputStream;
+        try {
+            String nomeAudio = retirarCaracteres(listaMusica[som]) +".mp3";
+            File arquivo = new File( "/storage/emulated/0" + "/" + Environment.DIRECTORY_MUSIC + "/" + nomeAudio);
+            if(arquivo.exists()){
+                toastMessageLong(arquivo.getAbsolutePath());
+                return;
+            }
+
+            ContentResolver resolver = getContext().getContentResolver();
+
+            ContentValues contentValues = new ContentValues();
+            contentValues.put(MediaStore.Audio.Media.DISPLAY_NAME, nomeAudio);
+            contentValues.put(MediaStore.Audio.Media.MIME_TYPE, "audio/mp3");
+            contentValues.put(MediaStore.Audio.Media.RELATIVE_PATH, Environment.DIRECTORY_MUSIC);
+
+            Uri uri = resolver.insert(MediaStore.Audio.Media.EXTERNAL_CONTENT_URI, contentValues);
+
+            outputStream = resolver.openOutputStream(uri);
+
+            inputStream = getResources().openRawResource(sons[som]);
+
+            final byte[] buffer = new byte[1024];
+            int length;
+            while ((length = inputStream.read(buffer, 0, 1024)) > 0) {
+                outputStream.write(buffer, 0, length);
+            }
+
+            inputStream.close();
+            outputStream.close();
+
+            toastMessageLong(arquivo.getAbsolutePath());
+        } catch (Exception e) {
+            e.printStackTrace();
+            toastMessage("Não foi possível fazer o download!");
         }
     }
 
@@ -953,6 +1007,7 @@ public final class MainActivity2 extends Fragment {
 
     public void carregarListaMusica() {
         listaMusica = new String[]{
+                "Oh no - Capone",
                 "Cheiro de Somebody That I Used to Know",
                 "Cheiro de Don't Start Now",
                 "Cheiro de Blinding Lights",
