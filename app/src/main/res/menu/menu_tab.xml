@@ -26,10 +26,6 @@
             android:title="@string/favoritos"
             app:showAsAction="never"/>
 
-        <item android:id="@+id/action_sugestao"
-            android:orderInCategory="200"
-            android:title="@string/sugestao"
-            app:showAsAction="never"/>
     </group>
 
 </menu>

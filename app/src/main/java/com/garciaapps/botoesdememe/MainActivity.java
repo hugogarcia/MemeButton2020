@@ -162,6 +162,18 @@ public class MainActivity extends Fragment{
 
     public static void carregarTabela(){
         img = new int[]{
+                R.drawable.imggeral,
+                R.drawable.imggeral,
+                R.drawable.imggeral,
+                R.drawable.imggeral,
+                R.drawable.imggeral,
+                R.drawable.imggeral,
+                R.drawable.imggeral,
+                R.drawable.imggeral,
+                R.drawable.imggeral,
+                R.drawable.imggeral,
+                R.drawable.imggeral,
+                R.drawable.imggeral,
                 R.drawable.keanu,
                 R.drawable.keanu,
                 R.drawable.jotinha,
@@ -623,6 +635,18 @@ public class MainActivity extends Fragment{
         };
 
         sons = new int[]{
+                R.raw.imggeral_taporramenor,
+                R.raw.imggeral_olhaomacaco,
+                R.raw.imggeral_eusourica,
+                R.raw.imggeral_queimanaoqueima,
+                R.raw.imggeral_irraratinho,
+                R.raw.imggeral_yamete,
+                R.raw.imggeral_ratinho,
+                R.raw.imggeral_achouerrado,
+                R.raw.imggeral_dancagatinho,
+                R.raw.imggeral_pare,
+                R.raw.imggeral_uepa,
+                R.raw.imggeral_cavalo,
                 R.raw.keanu_umtapanagostosa,
                 R.raw.keanu_yesbaby,
                 R.raw.jotinha_meufilho,
@@ -1434,6 +1458,18 @@ public class MainActivity extends Fragment{
 
     public void carregarListaAudio() {
         listaAudio = new String[]{
+                "TA PORRA, MENOR",
+                "OLHA O MACACO",
+                "Eu sou rica",
+                "Queima ou não queima - Sikera",
+                "IRRA",
+                "Yamete kudasai",
+                "Ratinho",
+                "Achou errado otário",
+                "Dança gatinho, dança",
+                "Pare - Ratinho",
+                "Uepa - Ratinho",
+                "Cavalo - Ratinho",
                 "Um tapa na gostosa",
                 "Yes baby, thank you",
                 "Meu filho, tu vai ver coisa - Jotinha",

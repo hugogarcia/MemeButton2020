@@ -219,6 +219,8 @@ public final class MainActivity2 extends Fragment {
     public static void carregarTabela() {
         img = new int[]{
                 R.drawable.imggeral,
+                R.drawable.imggeral,
+                R.drawable.imggeral,
                 R.drawable.cheiropneu,
                 R.drawable.cheiropneu,
                 R.drawable.cheiropneu,
@@ -377,6 +379,8 @@ public final class MainActivity2 extends Fragment {
         };
 
         sons = new int[]{
+                R.raw.imggeral_velhorico,
+                R.raw.imggeral_racaabsoluta,
                 R.raw.imggeral_ohno,
                 R.raw.cheiropneu_somebody,
                 R.raw.cheiropneu_dontstart,
@@ -1007,6 +1011,8 @@ public final class MainActivity2 extends Fragment {
 
     public void carregarListaMusica() {
         listaMusica = new String[]{
+                "Um velho bem rico",
+                "Raça absoluta - Alien X",
                 "Oh no - Capone",
                 "Cheiro de Somebody That I Used to Know",
                 "Cheiro de Don't Start Now",

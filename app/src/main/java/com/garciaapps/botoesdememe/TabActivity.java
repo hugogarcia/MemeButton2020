@@ -410,10 +410,10 @@ public class TabActivity extends AppCompatActivity {
                 //overridePendingTransition(0, 0);
                 startActivity(it);
                 break;
-            case R.id.action_sugestao:
+            /*case R.id.action_sugestao:
                 it = new Intent(this, Sugestao.class);
                 startActivityForResult(it, 1);
-                break;
+                break;*/
         }
 
         return super.onOptionsItemSelected(item);
@@ -578,6 +578,18 @@ public class TabActivity extends AppCompatActivity {
     }
 
     public void carregarListaAudio() {
+        listaAudio.add("TA PORRA, MENOR");
+        listaAudio.add("OLHA O MACACO");
+        listaAudio.add("Eu sou rica");
+        listaAudio.add("Queima ou não queima - Sikera");
+        listaAudio.add("IRRA");
+        listaAudio.add("Yamete kudasai");
+        listaAudio.add("Ratinho");
+        listaAudio.add("Achou errado otário");
+        listaAudio.add("Dança gatinho, dança");
+        listaAudio.add("Pare - Ratinho");
+        listaAudio.add("Uepa - Ratinho");
+        listaAudio.add("Cavalo - Ratinho");
         listaAudio.add("Um tapa na gostosa");
         listaAudio.add("Yes baby, thank you");
         listaAudio.add("Meu filho, tu vai ver coisa - Jotinha");
@@ -1039,6 +1051,8 @@ public class TabActivity extends AppCompatActivity {
     }
 
     public void carregarListaMusica() {
+        listaMusica.add("Um velho bem rico");
+        listaMusica.add("Raça absoluta - Alien X");
         listaMusica.add("Oh no - Capone");
         listaMusica.add("Cheiro de Somebody That I Used to Know");
         listaMusica.add("Cheiro de Don't Start Now");
